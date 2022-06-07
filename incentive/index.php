@@ -59,20 +59,19 @@
       <div class="row justify-content-between">
         <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
           <div data-aos="zoom-out">
-            <h1>HELLO<span>THERE</span></h1>
+            <h1>HELLO <span>THERE</span></h1>
             <br>
-            <h2>If you are on this page, it means you have seen our posts and adverts and you are interested in our offer. The offer is as follows;<br>
+            <h2>If you are on this page, it means you have seen our posts and adverts and you are interested in our offer. The offer is as follows;<br><br>
             • Instant access to our novice to pro-level forex course<br>
             • Instant access to our forex signal channel with proven results
             • Refund of any trading capital lost within the first three days of trading with our recommended broker using our suggested signals. Valid for 7days.
             
             </h2> 
-<h3>Still Interested???s</h3><br>
-            <!-- <h2>What is your Gender?</h2> -->
+<p>Still Interested???s</p><br>
             <div class="text-center text-lg-start">
               <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">ACCESS NOW</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br>
-              <h3>Terms & Conditions Apply</h3><br>
+              <p>Terms & Conditions Apply</p><br>
             </div>
           </div>
         </div>
