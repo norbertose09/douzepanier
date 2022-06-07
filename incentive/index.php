@@ -63,15 +63,15 @@
             <br>
             <h2>If you are on this page, it means you have seen our posts and adverts and you are interested in our offer. The offer is as follows;<br><br>
             • Instant access to our novice to pro-level forex course<br>
-            • Instant access to our forex signal channel with proven results
+            • Instant access to our forex signal channel with proven results<br>
             • Refund of any trading capital lost within the first three days of trading with our recommended broker using our suggested signals. Valid for 7days.
             
             </h2> 
-<p>Still Interested???s</p><br>
+<h2 style="color:red;">Still Interested???s</h2><br>
             <div class="text-center text-lg-start">
               <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">ACCESS NOW</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br>
-              <p>Terms & Conditions Apply</p><br>
+              <p style="color:white;">Terms & Conditions Apply</p><br>
             </div>
           </div>
         </div>
