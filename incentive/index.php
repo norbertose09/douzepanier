@@ -70,7 +70,7 @@
 <h3>Still Interested???s</h3><br>
             <!-- <h2>What is your Gender?</h2> -->
             <div class="text-center text-lg-start">
-              <a href="http://wa.me/message/K4TEKF530Q4IB1" class="btn-get-started scrollto">ACCESS NOW</a>
+              <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">ACCESS NOW</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br>
               <h3>Terms & Conditions Apply</h3><br>
             </div>
