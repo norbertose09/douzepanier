@@ -71,7 +71,8 @@
             <div class="text-center text-lg-start">
               <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">ACCESS NOW</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br><br>
-              <p style="color:white;">Terms & Conditions Apply</p><br>
+              <p style="color:white;">*TERMS AND CONDITIONS*
+<p style="color:white;">It is important to note that the offer above just like every other offer has a basic requirement to be met before access can be granted.<br>In this case, the requirement is your registration with our recommended broker and depositing the minimum amount required for trading</p>
             </div>
           </div>
         </div>
