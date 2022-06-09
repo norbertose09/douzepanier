@@ -61,7 +61,9 @@
           <div data-aos="zoom-out">
 <!--             <h1>HELLO <span>THERE</span></h1> -->
             <br>
-            <h2><i>Hello there</i>, If you are on this page it means you have seen our posts and adverts and you are interested in our offer. The offer is as follows;<br><br>
+            <h2><i>Hello there</i>, If you are on this page it means you have seen our posts and adverts and you are interested in our offer.<br><br>
+               <p style="color:white;">*TERMS AND CONDITIONS*
+<p style="color:white;">It is important to note that the offer above just like every other offer has a basic requirement to be met before access can be granted.<br>In this case, the requirement is your registration with our recommended broker and depositing the minimum amount required for trading</p><br> <br>
             • Instant access to our novice to pro-level forex course<br><br>
             • Instant access to our forex signal channel with proven results<br><br>
             • Refund of any trading capital lost within the first three days of trading with our recommended broker using our suggested signals. Valid for 7days.
@@ -71,8 +73,7 @@
             <div class="text-center text-lg-start">
               <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">ACCESS NOW</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br><br>
-              <p style="color:white;">*TERMS AND CONDITIONS*
-<p style="color:white;">It is important to note that the offer above just like every other offer has a basic requirement to be met before access can be granted.<br>In this case, the requirement is your registration with our recommended broker and depositing the minimum amount required for trading</p>
+             
             </div>
           </div>
         </div>
