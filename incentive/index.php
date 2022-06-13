@@ -62,8 +62,8 @@
 <!--             <h1>HELLO <span>THERE</span></h1> -->
             <br>
             <h2><i>Hello there</i>, If you are on this page it means you have seen our posts and adverts and you are interested in our offer.</h2>
-<!--               <h2>But First,</h2> -->
-<p style="color:white;">But First,<br>
+              <h2>But First,</h2>
+<p style="color:white;">
   It is important to note that the offer below just like every other offer has a basic requirement to be met before access can be granted.<br>In this case, the requirement is your registration with our recommended broker and depositing the minimum amount required for trading.</p><br> <br>
             <h1>Having said that, Kindly See our offer(s) below:</h1><br>
          <h2>   • Free Instant access to our novice to pro-level forex course valued at $1,100<br><br>
@@ -73,7 +73,7 @@
            Please note that the amount deposited is to your personal trading account with the recommended broker and you'd be free to deposit and withdraw at any time as you choose from your trading account.<br><br>
             We believe you are interested in financial freedom or at least want to make some extra income. If that's the case, then you'd need to follow our instructions</p>
           
-<h2 style="color:red;">Click the link below to get started</h2><br>
+<h2 style="color:red;">Click the link below to get started now</h2><br>
             <div class="text-center text-lg-star.t">
               <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">CLICK NOW</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br><br>
