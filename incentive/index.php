@@ -69,11 +69,11 @@
          <h2>   • Free Instant access to our novice to pro-level forex course valued at $1,100<br><br>
             • Free Instant access to our forex signal channel with proven results valued at $100 per month<br><br>
             • Refund of any trading capital lost within the first three days of trading with our recommended broker using our suggested signals. Valid for 7days.</h2>
-            <p style="color:white;"><span style="color:black;">Ps:</span> Access to the forex training course and signal group are absolutely free... The only requirement is your registration with our recommended broker and deposit the minimum trading amount in your trading account.<br>
+            <p style="color:white;"><span style="color:#ffe81c;">Ps:</span> Access to the forex training course and signal group are absolutely free... The only requirement is your registration with our recommended broker and deposit the minimum trading amount in your trading account.<br>
            Please note that the amount deposited is to your personal trading account with the recommended broker and you'd be free to deposit and withdraw at any time as you choose from your trading account.<br><br>
             We believe you are interested in financial freedom or at least want to make some extra income. If that's the case, then you'd need to follow our instructions...</p>
           
-<h2 style="color:black;">Click the link below to get started now</h2><br>
+<h2 style="color:#ffe81c;">Click the link below to get started now</h2><br>
             <div class="text-center text-lg-star.t">
               <a href="https://wa.link/1vo7qn" class="btn-get-started scrollto">CLICK NOW!!!</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> --><br><br>
