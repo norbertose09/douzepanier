@@ -43,7 +43,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html"><span>12Baskets<h6>Financial Solutions</h6></span></a></h1>
+        <h1><a href="index.html"><span>Douze Panier<h6>Financial Solutions</h6></span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -59,9 +59,9 @@
       <div class="row justify-content-between">
         <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
           <div data-aos="zoom-out">
-            <h1>ONLINE <span>TEST</span></h1>
+            <h1><span>QUESTIONAIRE</span></h1>
             <br>
-            <h2>Have you ever heard of the forex market?</h2>
+            <h2>Have you ever heard of the forex trading?</h2>
             <!-- <h2>What is your Gender?</h2> -->
             <div class="text-center text-lg-start">
               <a href="<?php echo 'experience'  ?>" class="btn-get-started scrollto">YES</a>
