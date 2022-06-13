@@ -107,9 +107,10 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+    <center>
     <div class="copyright">
         &copy; Copyright <strong>Douze Panier</strong>. All Rights Reserved
-      </div>
+      </div></center>
 
 </body>
 
