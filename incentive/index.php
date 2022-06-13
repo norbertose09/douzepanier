@@ -43,7 +43,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html"><span>12Baskets<h6>Financial Solutions</h6></span></a></h1>
+        <h1><a href="index.html"><span>Douze Panier<h6>Financial Solutions</h6></span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -62,11 +62,11 @@
 <!--             <h1>HELLO <span>THERE</span></h1> -->
             <br>
             <h2><i>Hello there</i>, If you are on this page it means you have seen our posts and adverts and you are interested in our offer.</h2>
-              <p style="color:white;">*TERMS AND CONDITIONS*</p>
+              <h3 style="color:white;">But First,</h3>
 <p style="color:white;">It is important to note that the offer below just like every other offer has a basic requirement to be met before access can be granted.<br>In this case, the requirement is your registration with our recommended broker and depositing the minimum amount required for trading.</p><br> <br>
-            <h1><span>See our offers below</span></h1><br>
-         <h2>   • Instant access to our novice to pro-level forex course<br><br>
-            • Instant access to our forex signal channel with proven results<br><br>
+            <h1><span>Having said that, kindly See our offers below:</span></h1><br>
+         <h2>   • Free Instant access to our novice to pro-level forex course valued at $1,100<br><br>
+            • Free Instant access to our forex signal channel with proven results valued at $100<br><br>
             • Refund of any trading capital lost within the first three days of trading with our recommended broker using our suggested signals. Valid for 7days.</h2>
             
           
