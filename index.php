@@ -47,7 +47,7 @@
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/undraw_progress_data_re_rv4p (1).svg" alt="" class="img-fluid"></a>-->
       </div>
-
+<br>
       
     </div>
   </header><!-- End Header -->
@@ -107,6 +107,9 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+    <div class="copyright">
+        &copy; Copyright <strong>Douze Panier</strong>. All Rights Reserved
+      </div>
 
 </body>
 
