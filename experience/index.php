@@ -43,7 +43,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html"><span>12Baskets<h6>Financial Solutions</h6></span></a></h1>
+        <h1><a href="index.html"><span>Douze Panier<h6>Financial Solutions</h6></span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -59,9 +59,9 @@
       <div class="row justify-content-between">
         <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
           <div data-aos="zoom-out">
-            <h1>ONLINE <span>TEST</span></h1>
+            <h1><span>QUESTIONNAIRE</span></h1>
             <br>
-            <h2>Do you have any experience in trading?</h2>
+            <h2>Do you have any experience in forex trading?</h2>
             <!-- <h2>What is your Gender?</h2> -->
             <div class="text-center text-lg-start">
               <a href="<?php echo '../incentive'  ?>" class="btn-get-started scrollto">YES</a>
@@ -70,7 +70,7 @@
           </div>
         </div>
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
-          <img src="../assets/img/undraw_Bitcoin_P2P_re_1xqa (1).png" class="img-fluid animated" alt="">
+          <img src="../assets/img/undraw_finance_re_gnv2 (1).svg" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -107,7 +107,11 @@
 
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
-
+  <pre>
+    <center>
+    <div class="copyright">
+   &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
+      </div></center></pre>
 </body>
 
 </html>
