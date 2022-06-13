@@ -111,7 +111,7 @@
     <pre>
     <center>
     <div class="copyright">
-      &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
+   &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
       </div></center></pre>
 
 </body>
