@@ -72,6 +72,7 @@
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
           <img src="../assets/img/undraw_finance_re_gnv2 (1).svg" class="img-fluid animated" alt="">
         </div>
+        <br><br><br>
       </div>
     </div>
 
