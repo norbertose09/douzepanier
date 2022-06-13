@@ -62,8 +62,8 @@
 <!--             <h1>HELLO <span>THERE</span></h1> -->
             <br>
             <h2><i>Hello there</i>, If you are on this page it means you have seen our posts and adverts and you are interested in our offer.</h2>
-              <p style="color:white; font-size:25px">But First,</p>
-<h2">
+              <p style="color:white; font-size:22px">But First,</p>
+<h2>
   It is important to note that the offer below just like every other offer has a basic requirement to be met before access can be granted.<br>In this case, the requirement is your registration with our recommended broker and depositing the minimum amount required for trading.</h2><br> <br>
             <h1>Having said that, Kindly See our offer(s) below:</h1><br>
          <h2>   • Free Instant access to our novice to pro-level forex course valued at $1,100<br><br>
