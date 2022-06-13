@@ -70,7 +70,7 @@
           </div>
         </div>
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/undraw_progress_data_re_rv4p (1).svg" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
