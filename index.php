@@ -61,7 +61,7 @@
           <div data-aos="zoom-out">
             <h1><span>QUESTIONAIRE</span></h1>
             <br>
-            <h2>Have you ever heard of the forex trading?</h2>
+            <h2>Have you heard of forex trading?</h2>
             <!-- <h2>What is your Gender?</h2> -->
             <div class="text-center text-lg-start">
               <a href="<?php echo 'experience'  ?>" class="btn-get-started scrollto">YES</a>
@@ -107,10 +107,11 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+    <pre>
     <center>
     <div class="copyright">
         &copy; Copyright <strong>Douze Panier</strong>. All Rights Reserved
-      </div></center>
+      </div></center></pre>
 
 </body>
 
