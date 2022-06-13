@@ -43,7 +43,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-       <h1><a href="index.html"><span>12Baskets<h6>Financial Solutions</h6></span></a></h1>
+       <h1><a href="index.html"><span>Douze Panier<h6>Financial Solutions</h6></span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -74,7 +74,7 @@ The forex market is open 24 hours a day, five days a week, except for holidays. 
         </div>
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
           <img src="../assets/img/undraw_business_plan_re_0v81.svg" class="img-fluid animated" alt="">
-        </div>
+        </div><br><br>
       </div>
     </div>
 
@@ -110,7 +110,10 @@ The forex market is open 24 hours a day, five days a week, except for holidays. 
 
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
-
+<div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>Midas Industries Synergy Resources</strong>. All Rights Reserved
+      </div
 </body>
 
 </html>
