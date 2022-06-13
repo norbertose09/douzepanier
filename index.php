@@ -47,7 +47,7 @@
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/undraw_progress_data_re_rv4p (1).svg" alt="" class="img-fluid"></a>-->
       </div>
-<br>
+<br><br><br>
       
     </div>
   </header><!-- End Header -->
@@ -111,7 +111,7 @@
     <pre>
     <center>
     <div class="copyright">
-        &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
+      &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
       </div></center></pre>
 
 </body>
