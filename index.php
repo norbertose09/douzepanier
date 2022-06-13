@@ -45,7 +45,7 @@
       <div class="logo">
         <h1><a href="index.html"><span>Douze Panier<h6>Financial Solutions</h6></span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.html"><img src="assets/img/undraw_progress_data_re_rv4p (1).svg" alt="" class="img-fluid"></a>-->
       </div>
 
       
