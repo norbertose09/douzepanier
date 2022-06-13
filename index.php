@@ -69,6 +69,7 @@
             </div>
           </div>
         </div>
+        <br><br>
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
           <img src="assets/img/undraw_setup_analytics_re_foim (1).svg" class="img-fluid animated" alt="">
         </div><br><br>
@@ -110,7 +111,7 @@
     <pre>
     <center>
     <div class="copyright">
-        &copy; Copyright <strong>Douze Panier</strong>. All Rights Reserved
+        &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
       </div></center></pre>
 
 </body>
