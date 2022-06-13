@@ -59,7 +59,7 @@
       <div class="row justify-content-between">
         <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
           <div data-aos="zoom-out">
-            <h1>NEW TO <span>FOREX?</span></h1>
+            <h1>NEW TO <span>FOREX TRADING?</span></h1>
             <br>
             <h2>Forex or (FX) means foreign exchange. It is the global electronic marketplace for trading international currencies and currency derivatives. It has no central physical location, yet the forex market is the largest, most liquid market in the world by trading volume, with trillions of dollars changing hands every day. Most of the trading is done through banks, brokers, and financial institutions. In the layman's terms, forex is similar to buying and selling. In our everyday life, we perform trading unknown to some of us. For instance, when you buy an item and pay with a curency, exchange is done there. So in the case of forex, we are exchanging one country's currency for another. Let's say euro for dollars.
 
