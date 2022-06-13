@@ -59,7 +59,7 @@
       <div class="row justify-content-between">
         <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
           <div data-aos="zoom-out">
-            <h1><span>QUESTIONAIRE</span></h1>
+            <h1><span>QUESTIONNAIRE</span></h1>
             <br>
             <h2>Have you heard of forex trading?</h2>
             <!-- <h2>What is your Gender?</h2> -->
