@@ -73,7 +73,7 @@ The forex market is open 24 hours a day, five days a week, except for holidays. 
           </div>
         </div>
         <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
-          <!-- <img src="../assets/img/undraw_Bitcoin_P2P_re_1xqa (1).png" class="img-fluid animated" alt=""> -->
+          <img src="../assets/img/undraw_business_plan_re_0v81.svg" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
