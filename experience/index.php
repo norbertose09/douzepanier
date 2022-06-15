@@ -64,7 +64,7 @@
             <h2>Do you have any experience in forex trading?</h2>
             <!-- <h2>What is your Gender?</h2> -->
             <div class="text-center text-lg-start">
-              <a href="<?php echo '../incentive'  ?>" class="btn-get-started scrollto">YES</a>
+              <a href="<?php echo '../offers'  ?>" class="btn-get-started scrollto">YES</a>
               <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a>
             </div>
           </div>
