@@ -67,7 +67,7 @@ The forex market is open 24 hours a day, five days a week, except for holidays. 
 <h1>Click the link below to see our offers</h1><br>
             <!-- <h2>What is your Gender?</h2> -->
             <div class="text-center text-lg-start">
-              <a href="<?php echo '../incentive'  ?>" class="btn-get-started scrollto">OFFERS</a>
+              <a href="<?php echo '../offers'  ?>" class="btn-get-started scrollto">OFFERS</a>
               <!-- <a href="<?php echo '../info'  ?>" class="btn-get-started scrollto">NO</a> -->
             </div>
           </div>
