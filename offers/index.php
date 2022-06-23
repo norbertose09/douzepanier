@@ -121,7 +121,8 @@
   <script src="../assets/js/main.js"></script>
    <pre>
     <center>
-    <div class="copyright">
+      <h6 style="font-size:15px;"><strong>General Risk Warning:</strong> Leveraged products<br> include CFDs. Since CFD trading involves<br> a high level of risk, it may not be<br> suitable for all investors.<br> The value of the investment may rise<br> or fall, and the investor could end up<br> with nothing they invested.<br> The Company shall in no event be<br> liable to any person or entity for any<br> loss or damage, whether direct or indirect,<br> arising out of or connected with any<br> transactions involving CFDs.</h6>
+    <div class="copyright"><hr>
    &copy; Copyright <strong>Douze Panier</strong>.<br> All Rights Reserved.
       </div></center></pre>
 </body>
